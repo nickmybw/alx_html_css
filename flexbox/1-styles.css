@@ -14,3 +14,29 @@
   /* float: left; */ /* Remove or comment out this line */
   box-sizing: border-box;
 }
+
+/* CSS code for the added classes */
+
+.section-services {
+  /* Add styles for section-services here */
+}
+
+.section-works {
+  /* Add styles for section-works here */
+}
+
+.section-about-us {
+  /* Add styles for section-about-us here */
+}
+
+.section-latest-news {
+  /* Add styles for section-latest-news here */
+}
+
+.section-testimonial {
+  /* Add styles for section-testimonial here */
+}
+
+.section-contact {
+  /* Add styles for section-contact here */
+}
