@@ -315,7 +315,35 @@
   
   /* Section (all styles)
       ============================= */
-  
+  /*** 3. SECTION ***/
+
+/* Section (all styles)
+   ============================= */
+
+.section-services {
+  /* Styles for the services section */
+}
+
+.section-works {
+  /* Styles for the works section */
+}
+
+.section-about-us {
+  /* Styles for the about section */
+}
+
+.section-latest-news {
+  /* Styles for the latest_news section */
+}
+
+.section-testimonial {
+  /* Styles for the testimonial section */
+}
+
+.section-contact {
+  /* Styles for the contact section */
+}
+
   .section {
     padding: var(--section-padding);
   }
