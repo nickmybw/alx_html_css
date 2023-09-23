@@ -1,0 +1,9 @@
+.logo {
+  display: flexbox;
+}
+
+.menu {
+display: inline-block;
+flex-direction: row;
+
+}
